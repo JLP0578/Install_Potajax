@@ -15,6 +15,10 @@
 
 composer create-project --prefer-dist laravel/laravel:^7.0 Potajax
 
+composer require laravel/ui:^2.4
+
+php artisan ui vue --auth
+
 ---- Si y a Application key set successfully toutest bon ----
 ---- Ouvez LAIDE si vous voulez une commande ----
 
@@ -37,6 +41,10 @@ composer create-project --prefer-dist laravel/laravel:^7.0 Potajax
 
 composer create-project --prefer-dist laravel/laravel:^7.0 Potajax
 
+composer require laravel/ui:^2.4
+
+php artisan ui vue --auth
+
 ---- Si y a Application key set successfully toutest bon ----
 ---- Ouvez LAIDE si vous voulez une commande ----
 
@@ -57,6 +65,10 @@ composer create-project --prefer-dist laravel/laravel:^7.0 Potajax
 ---- Ouvez un terminal, coller la ligne ci-dessous ----
 
 composer create-project --prefer-dist laravel/laravel:^7.0 Potajax
+
+composer require laravel/ui:^2.4
+
+php artisan ui vue --auth
 
 ---- Si y a Application key set successfully toutest bon ----
 ---- Ouvez LAIDE si vous voulez une commande ----
